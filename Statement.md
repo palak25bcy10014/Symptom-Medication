@@ -30,7 +30,7 @@ The project includes basic concepts of Machine Learning, such as regression or c
 * Self-Quantifiers: Health-conscious individuals trying to evaluate the effectiveness of new medication regimens or lifestyle changes.
   
 ## 📌High-level Features
-Smart Event Logging: An interface that allows efficiently recording medication dosages and symptom occurrences, reducing friction to a minimum.
+* Smart Event Logging: An interface that allows efficiently recording medication dosages and symptom occurrences, reducing friction to a minimum.
 
 * Automatic Temporal Tracking: accurate timestamping of each entry to show duration between intake of medication and alleviation of symptom.
 
