@@ -56,11 +56,11 @@ Symptom & Medication Journal/
 ## 📌**Screenshots**
 ### 1.Menu Drive
 
-<img width="840" height="197" alt="image" src="https://github.com/user-attachments/assets/ef3293d4-9793-4337-a12f-ae16a5aff6c7" />
+<img width="510" height="219" alt="image" src="https://github.com/user-attachments/assets/cb75c46e-3a9d-4bb4-be7d-9aae04e48d84" />
 
 ### 2.Entering choice as 1
 
-<img width="810" height="294" alt="image" src="https://github.com/user-attachments/assets/1a816b0b-1216-4c81-96c7-677df413d700" />
+<img width="760" height="464" alt="image" src="https://github.com/user-attachments/assets/90dd2e02-324a-428d-8ae0-a635417c3a53" />
 
 ### 3.Entering choice as 2 and checking for error by entering wrong input
 
@@ -68,8 +68,9 @@ Symptom & Medication Journal/
 
 ### 4.Entering choice as 2 and checking result by entering correct input
 
-<img width="1093" height="367" alt="image" src="https://github.com/user-attachments/assets/f5dd67ae-ba01-407e-8f90-bb11a92227f8" />
+<img width="518" height="448" alt="image" src="https://github.com/user-attachments/assets/7445a030-e0c8-4820-9ed6-d0608c6b5476" />
 
 ### 5.Entering choice as 3 and checking for the summary
 
-<img width="817" height="283" alt="image" src="https://github.com/user-attachments/assets/e56f58ff-39e9-464d-b705-19662c80bf91" />
+<img width="530" height="784" alt="image" src="https://github.com/user-attachments/assets/5977caad-315c-401a-aad9-53795b1ce00c" />
+
